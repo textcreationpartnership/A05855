@@ -3633,13 +3633,33 @@ armes and valor, than with walles, <hi>serring</hi> themselues close together in
                </p>
                <div type="notes">
                   <head>Notes.</head>
-                  <figure>
-                     <head>CAP 16</head>
-                     <p>A Systasis</p>
-                     <p>A Pentecontarchy</p>
-                     <p>The light Armed</p>
-                     <p>The Front</p>
-                  </figure>
+                  <p>
+                     <hi>AS the armed were distinguished, and seuered<g ref="char:punc">▪</g> into diuers bodies in the</hi> Phalange, <hi>so are the light-armed, in whom there ought to be no lesse order, then in the armed. A multitude vndigested bringeth with it disorder, and confusion. Neither can any ser<g ref="char:EOLhyphen"/>uice be expected from them, who by apt diuisions are not cast into bodies fit for seruice. We haue before spoken of the names of the bodies of the armed, and noted, that they were not imposed with such propriety<g ref="char:punc">▪</g> that they could be applied to no other thing. At the first warre was made, and men fought (as wild beasts graple together) led with furie, and rage, and not with skill: and he preuailed that was the strongest. Experience taught there were ad<g ref="char:EOLhyphen"/>uantages in</hi> Time, <hi>in</hi> Place, <hi>in</hi> Order, <hi>in</hi> instruments <hi>of fight, in</hi> placing of men, <hi>and</hi>
+                     <pb facs="tcp:7163:61"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:7163:62"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:7163:62"/>
+                     <figure>
+                        <head>CAP 16</head>
+                        <p>A Systasis</p>
+                        <p>A Pentecontarchy</p>
+                        <p>The light Armed</p>
+                        <p>The Front</p>
+                     </figure>
+                     <pb facs="tcp:7163:63"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="93" facs="tcp:7163:63"/>
+                     <hi>in other circumstances. Hence sprung the Art of Warre, the diuers formes of weapons, and the figures of Battailes. For the speedy framing whereof, the smaller bodies were invented, of which they confist. In building of a house, you first bring timber together, and other matter, and then of it frame walls, dores, windowes, rafters, beames, and the roof, which must be all conioyned together, before the fashion of the house will appeare: So in an Army the prouision of men was first requisite, which being found, and brought together by Leavies, were armed, and after ordered into seuerall bodies; and these being compacted together, set out the frame and fashion of the</hi> Phalange. <hi>And as all things newly invented, stand in neede of names to a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>scerne them from other things; So names were giuen vnto the bodies not proper, and fit; but such as Military wits thought conve<g ref="char:EOLhyphen"/>nient enough to signifie the things they meant. I haue noted it before in the names of the</hi> Tetrarchy, Taxis, Syntagma, <hi>and other, and it will appeare againe in this Chapter.</hi>
+                  </p>
                   <p>
                      <hi>But here I may not praetermit the curiositie of the</hi> Graecians <hi>in their appellations, and their plenty of speach, apt to giue diuersitie to things, that are diuers. For where there are bo<gap reason="illegible" resp="#APEX" extent="1 letter">
                            <desc>•</desc>
@@ -4642,12 +4662,15 @@ not yet come to vse their darts, neither durst they runne into the wings to help
                         <head>For the Macedonian countermarch by ranke.</head>
                         <p>The right or left hand corner file, turne your faces to the right, or left hand.</p>
                         <p>The rest of each ranke, passe thorough to the right, or left hand; and place your selues or<g ref="char:EOLhyphen"/>derly behind your side-men keeping your distance.</p>
-                        <figure>
-                           <head>Cap 29 Dobling of Rankes</head>
-                           <p>The front before Dobling of rankes</p>
-                           <p>Dobling of rankes in action</p>
-                           <p>The front after Dobling of Rankes</p>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:7163:97"/>
+                           <figure>
+                              <head>Cap 29 Dobling of Rankes</head>
+                              <p>The front before Dobling of rankes</p>
+                              <p>Dobling of rankes in action</p>
+                              <p>The front after Dobling of Rankes</p>
+                           </figure>
+                        </p>
                      </div>
                      <div type="words">
                         <pb facs="tcp:7163:98"/>
@@ -4827,29 +4850,49 @@ in number. Being now come to hands the Roman horse ouerpressed with mul<g ref="c
                <head>How the motions of wheeling, double, and treble wheeling of the battaile are to be made. <hi>CHAP. XXXII.</hi>
                </head>
                <p>IT followeth to shew how a battaile may be turned or wheeled, and how after reduced to the first posture, or Station.</p>
-               <figure>
-                  <head>Cap. 30.</head>
-                  <p>Plagiophalanx or the Brode-Fronted Phalange</p>
-                  <p>Orthiophalanx or the Herse</p>
-                  <p>Protaxis, or forefronting</p>
-                  <p>The Front</p>
-                  <p>L<gap reason="illegible" extent="2 letters">
-                        <desc>••</desc>
-                     </gap>halanx or the vneven fronted Phalange</p>
-               </figure>
-               <figure>
-                  <head>Cap. 31.</head>
-                  <p>Hypotaxis, or double-winging</p>
-                  <p>Entaxis, or insertion</p>
-                  <p>Protaxis, or forefronting</p>
-               </figure>
-               <figure>
-                  <head>Cap. 32. The manner of wheeling</head>
-                  <p>The first posture</p>
-                  <p>Closing of files</p>
-                  <p>Closing of rankes forward</p>
-                  <p>The Front</p>
-               </figure>
+               <p>When therefore wee would accustome our Troupes to wheele the battaile to
+<pb facs="tcp:7163:101"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:7163:102"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:7163:102"/>
+                  <figure>
+                     <head>Cap. 30.</head>
+                     <p>Plagiophalanx or the Brode-Fronted Phalange</p>
+                     <p>Orthiophalanx or the Herse</p>
+                     <p>Protaxis, or forefronting</p>
+                     <p>The Front</p>
+                     <p>L<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>halanx or the vneven fronted Phalange</p>
+                  </figure>
+                  <pb facs="tcp:7163:103"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:7163:103"/>
+                  <figure>
+                     <head>Cap. 31.</head>
+                     <p>Hypotaxis, or double-winging</p>
+                     <p>Entaxis, or insertion</p>
+                     <p>Protaxis, or forefronting</p>
+                  </figure>
+                  <pb facs="tcp:7163:104"/>
+                  <pb facs="tcp:7163:104"/>
+                  <figure>
+                     <head>Cap. 32. The manner of wheeling</head>
+                     <p>The first posture</p>
+                     <p>Closing of files</p>
+                     <p>Closing of rankes forward</p>
+                     <p>The Front</p>
+                  </figure>
+                  <pb facs="tcp:7163:105"/>
+                  <pb n="137" facs="tcp:7163:105"/>
+the right hand, we command the right-hand-file to stand firme, &amp; the rest of the files to turne their faces to the right hand, and to moue close vp to the right hand file. Then to turne their faces, as they were at first: Then the hinder rankes to close forward: Then the whole battaile in that closenesse to wheele about the corner-file-Leader to the right hand. This done, if neede be to reduce it to the first posture, or Station, wee command euery man to turne about his face to the Target, or left hand (that is to looke the contrary way) Then to wheele about the body, that is, as it turned, closed, &amp; serred with the front to the right hand so to returne it againe to the place, from whence it made the wheeling; Then the file-Leaders to stand firme, and the rest to open their ranks behind; Then to turn their faces about, as they stood at first; Then the right-hand-file to stand fast, and the rest turning faces to the left hand to open their files; Then to stand; And last<g ref="char:EOLhyphen"/>ly to turne their faces againe to the right hand: and so shall euery man haue his first posture.</p>
                <p>But in case we desire to wheele to the left hand, we command the left-hand-file to stand still, and all the rest to turne their faces to the left hand, and mooue for<g ref="char:EOLhyphen"/>ward close vp to the left hand file; Then to turne their faces as they were; Then to gather vp the hinder rankes; Then to wheele the battaile to the left hand, and stand; and so is it done, that was commanded. But if restitution to the first po<g ref="char:EOLhyphen"/>sture be needfull, we must doe, as we did in returning from the right. For euery man must turne about his face to the Pike; Then the whole battaile wheeling a<g ref="char:EOLhyphen"/>bout the left-hand-corner-file-Leader must returne to the place, it had; Then all the file-Leaders stand firme, and turne about their faces, and the rest open their rankes in mouing forward and make Alte; Then the left hand file is to stand firme (for it hath the place it first had) and the rest turning their faces to the right hand to open their files, and moue forward, till they haue recouered their first distances; then to turne their faces as at first; and so shall euery man be in his first posture. Now if we would wheele the battaile about, to the pike we are to make 2 wheelings to the same side, so will it come to passe that the file-Leaders shall in the change haue their faces turned to the Reare, where before they had them looking out from the front. But in restoring to the first posture we command it to wheele about to the right hand; That is, we giue it two wheelings more the same way; So the file-Leaders will haue their faces set, as at first. Then we command the file-Leaders to stand firme, and the rest to open their rankes behind; then to turne their faces about; Then the right hand file to stand still (for it hath the right place) and the rest turning their faces to the right hand to march on, till the for<g ref="char:EOLhyphen"/>mer distances are regained; then to make Alte. So is the battaile reduced to the first Station.</p>
                <p>If you would haue the battaile turne about to the Target, you are to giue con<g ref="char:EOLhyphen"/>trarie directions; That is, in stead of commanding a double wheeling to the Pike, to command a double wheeling to the Target; Then by making two turnes the contrary way, to vse the like changes, we spake of before.</p>
                <p>There is likewise a treble wheeling of the battaile, when it turneth thrice to the same hand, namely to the Pike, or Target. The double wheeling to the Pike transferreth the Souldiers face from the front to the backe of the battaile: The treble wheeling to the Pike bringeth his face to the left flanke. The treble whee<g ref="char:EOLhyphen"/>ling to the Target contrariwise to the right flank.</p>
@@ -4897,21 +4940,45 @@ in number. Being now come to hands the Roman horse ouerpressed with mul<g ref="c
             <div n="33" type="chapter">
                <head>Of closing the battaile to the right, or left hand, or to the middest. <hi>CHAP. XXXIII.</hi>
                </head>
-               <figure>
-                  <head>Cap <gap reason="illegible" resp="#APEX" extent="2 letters">
-                        <desc>••</desc>
-                     </gap> Of Changes</head>
-                  <p>The front after closing</p>
-                  <p>Closing to y<hi rend="sup">e</hi> right hand in action</p>
-                  <p>Closing to y<hi rend="sup">e</hi> left hand</p>
-                  <p>Closing to the middell</p>
-                  <p>Closing to y<hi rend="sup">e</hi> right hand</p>
-                  <p>The Front before closing</p>
-                  <p>The Front of y<hi rend="sup">e</hi> 
-                     <gap reason="illegible" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> before closing</p>
-               </figure>
+               <p>IF we would close, or thicken the <hi>Phalange</hi> in the right wing, we are to command the right-wing-corner-file to stand still, and the rest turning faces to the Pike to aduance toward the right hand; Then to set their faces as they were, and to ga<g ref="char:EOLhyphen"/>ther vp the rankes behinde. In reducing them to the first posture we are to com mand the file-Leaders to stand, and the rest turning about their faces to open
+<pb facs="tcp:7163:106"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="140" facs="tcp:7163:107"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:7163:107"/>
+                  <figure>
+                     <head>Cap <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Of Changes</head>
+                     <p>The front after closing</p>
+                     <p>Closing to y<hi rend="sup">e</hi> right hand in action</p>
+                     <p>Closing to y<hi rend="sup">e</hi> left hand</p>
+                     <p>Closing to the middell</p>
+                     <p>Closing to y<hi rend="sup">e</hi> right hand</p>
+                     <p>The Front before closing</p>
+                     <p>The Front of y<hi rend="sup">e</hi> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> before closing</p>
+                  </figure>
+                  <pb facs="tcp:7163:108"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:7163:108"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:7163:109"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="141" facs="tcp:7163:109"/>
+their rankes behinde; Then to turne their faces as they were; Then the right<g ref="char:EOLhyphen"/>wing-corner-file to stand (for it hath the right place already) and the rest pro<g ref="char:EOLhyphen"/>ceeding on to the Target to follow their Leaders, and obseruing their distances to turne their faces as at first. A contrarie course is to be held in thickning the <hi>Pha<g ref="char:EOLhyphen"/>lange</hi> to the left wing.</p>
                <p>If the <hi>Phalange</hi> be to be closed in the middest, the <hi>Diphalange</hi> on the right hand must turne their faces toward the Target, and the <hi>Diphalange</hi> on the left hand their faces toward the Pike; Then moue forward toward the middest of the <hi>Phalange;</hi> Then, after their true distance gained, to set their faces, as they were, and to ga<g ref="char:EOLhyphen"/>ther vp the Rankes behind.</p>
                <p>When we would reduce the <hi>Phalange</hi> to the first posture, wee command to turne faces about; then to open the Rankes, and all to moue on, but the first Ranke; then to turne their faces againe, and the right <hi>Diphalange</hi> turning to the Pike, and the left <hi>Diphalange</hi> to the Target to follow their Leaders, till they haue recouered their first distances. Then to set their faces, as they were.</p>
                <p>This rule is to be obserued in all turnings about of faces, when they are made out of closings, that the Pikes be aduanced, least they hinder the Souldier in ma<g ref="char:EOLhyphen"/>king his turning.</p>
@@ -5437,31 +5504,39 @@ purpose: If I say <hi>turne your face,</hi> some it may be, that heare mee, will
             </lg>
             <p>
                <hi>You must note, that when they are comman<g ref="char:EOLhyphen"/>ded to be as they were, they must returne thither, from whence they parted; and if they turned to the right hand, they must returne to the left, and so in</hi> counter<g ref="char:EOLhyphen"/>march.</p>
-            <figure>
-               <p>The headpiece.</p>
-               <p>The forepart</p>
-               <p>The headpiece close.</p>
-               <p>The backe</p>
-               <p>y<hi rend="sup">e</hi> right gant<g ref="char:EOLunhyphen"/>let</p>
-               <p>The left vam<g ref="char:EOLhyphen"/>brace</p>
-               <p>The left cuishe</p>
-               <p>The brest</p>
-               <p>The backe</p>
-               <p>y<hi rend="sup">e</hi> gard</p>
-               <p>y<hi rend="sup">e</hi> left <gap reason="illegible" extent="4 letters">
-                     <desc>••••</desc>
-                  </gap>
-                  <g ref="char:EOLunhyphen"/>let</p>
-            </figure>
-            <figure>
-               <p>The Armour of y<hi rend="sup">e</hi> Pikman</p>
-               <p>The Gorget</p>
-               <p>The Brest</p>
-               <p>The Tales</p>
-               <p>The Hedpiece</p>
-               <p>The Back</p>
-               <p>The Pike</p>
-            </figure>
+            <p>
+               <pb facs="tcp:7163:134"/>
+               <figure>
+                  <p>The headpiece.</p>
+                  <p>The forepart</p>
+                  <p>The headpiece close.</p>
+                  <p>The backe</p>
+                  <p>y<hi rend="sup">e</hi> right gant<g ref="char:EOLunhyphen"/>let</p>
+                  <p>The left vam<g ref="char:EOLhyphen"/>brace</p>
+                  <p>The left cuishe</p>
+                  <p>The brest</p>
+                  <p>The backe</p>
+                  <p>y<hi rend="sup">e</hi> gard</p>
+                  <p>y<hi rend="sup">e</hi> left <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>let</p>
+               </figure>
+               <pb n="154" facs="tcp:7163:135"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="155" facs="tcp:7163:135"/>
+               <figure>
+                  <p>The Armour of y<hi rend="sup">e</hi> Pikman</p>
+                  <p>The Gorget</p>
+                  <p>The Brest</p>
+                  <p>The Tales</p>
+                  <p>The Hedpiece</p>
+                  <p>The Back</p>
+                  <p>The Pike</p>
+               </figure>
+            </p>
             <pb facs="tcp:7163:136"/>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
